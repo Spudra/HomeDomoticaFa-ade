@@ -1,0 +1,13 @@
+C:\Users\Jeroen\source\repos\FaçadeVoorbeeld\FaçadeVoorbeeld\bin\Debug\netcoreapp3.1\FaçadeVoorbeeld.exe
+C:\Users\Jeroen\source\repos\FaçadeVoorbeeld\FaçadeVoorbeeld\bin\Debug\netcoreapp3.1\FaçadeVoorbeeld.deps.json
+C:\Users\Jeroen\source\repos\FaçadeVoorbeeld\FaçadeVoorbeeld\bin\Debug\netcoreapp3.1\FaçadeVoorbeeld.runtimeconfig.json
+C:\Users\Jeroen\source\repos\FaçadeVoorbeeld\FaçadeVoorbeeld\bin\Debug\netcoreapp3.1\FaçadeVoorbeeld.runtimeconfig.dev.json
+C:\Users\Jeroen\source\repos\FaçadeVoorbeeld\FaçadeVoorbeeld\bin\Debug\netcoreapp3.1\FaçadeVoorbeeld.dll
+C:\Users\Jeroen\source\repos\FaçadeVoorbeeld\FaçadeVoorbeeld\bin\Debug\netcoreapp3.1\FaçadeVoorbeeld.pdb
+C:\Users\Jeroen\source\repos\FaçadeVoorbeeld\FaçadeVoorbeeld\obj\Debug\netcoreapp3.1\FaçadeVoorbeeld.csprojAssemblyReference.cache
+C:\Users\Jeroen\source\repos\FaçadeVoorbeeld\FaçadeVoorbeeld\obj\Debug\netcoreapp3.1\FaçadeVoorbeeld.AssemblyInfoInputs.cache
+C:\Users\Jeroen\source\repos\FaçadeVoorbeeld\FaçadeVoorbeeld\obj\Debug\netcoreapp3.1\FaçadeVoorbeeld.AssemblyInfo.cs
+C:\Users\Jeroen\source\repos\FaçadeVoorbeeld\FaçadeVoorbeeld\obj\Debug\netcoreapp3.1\FaçadeVoorbeeld.csproj.CoreCompileInputs.cache
+C:\Users\Jeroen\source\repos\FaçadeVoorbeeld\FaçadeVoorbeeld\obj\Debug\netcoreapp3.1\FaçadeVoorbeeld.dll
+C:\Users\Jeroen\source\repos\FaçadeVoorbeeld\FaçadeVoorbeeld\obj\Debug\netcoreapp3.1\FaçadeVoorbeeld.pdb
+C:\Users\Jeroen\source\repos\FaçadeVoorbeeld\FaçadeVoorbeeld\obj\Debug\netcoreapp3.1\FaçadeVoorbeeld.genruntimeconfig.cache
